@@ -2,5 +2,5 @@
 queries.db
 *.dat
 *.dat.gz
-plot.png
+*.png
 plot-latlong-0.3
