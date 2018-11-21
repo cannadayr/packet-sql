@@ -1,2 +1,4 @@
 *.swp
 queries.db
+*.dat
+*.dat.gz
