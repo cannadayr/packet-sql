@@ -22,6 +22,6 @@ m4_normalize([
                 matches@<:@4@:>@","
                 "'"matches@<:@5@:>@"'"
             ");";
-            system("")
+            system("") dnl prevent line buffering output
     } 
 ])
